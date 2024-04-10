@@ -1,0 +1,14 @@
+#David Onafuwa, Esrom Tesfay, Ricardo Siles-HerreraINST 326 0104
+12/12/2023
+Professor Gabriel Cruz
+		     	Final Code Documentation.
+
+1.)One to four sentences explaining what your project is and what it does.
+ In our project, you are given a list of movies from different genres. From that genre picked, you pick a movie, and from the movie you picked you are given the rating and genre of that movie
+2). An explanation of how to run the program from the command line.
+ To run the code, you input either python or python3, the file name, and the CSV file and run the program.
+3.)Documentation on how to use the program  and how to interpret the output of the program.
+ To interpret the output, you are given a list of different types of genres and when you click on the genre, you are given a list of movies for that genre
+4.)An annotated bibliography of all sources you used to develop the program and how you used them.
+    This is the website we used for your database:https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
